@@ -17,17 +17,17 @@
 "You need more permissions to save this setting.","你需要更高的权限，以保存该设置。",module,Magento_AdminGws
 "Role Scopes","角色作用范围",module,Magento_AdminGws
 "Custom","自定义",module,Magento_AdminGws
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view",module,Magento_AdminGws
+"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","在当前店铺中您没有权限保存该项，请切换至允许的店铺。",module,Magento_AdminGws
 "More permissions are needed to delete the ""%1"" item.","删除 ""%1"" 项需要更多权限。",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
-"At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","该项需要被分配至一个店铺。请确认该项是否已被分配后再重试。",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","订单只能在一个已上线的店铺中被完成。请确认该店铺是否已上线后再重试。",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","该项需要被分配至一个店铺。请先进行分配后再重试。",module,Magento_AdminGws
+"More permissions are needed to save this item.","您无权保存该项。",module,Magento_AdminGws
+"More permissions are needed to delete this item.","您无权删除该项。",module,Magento_AdminGws
+"More permissions are needed to view this item.","您无权查看该项。",module,Magento_AdminGws
+"At least one website or store group needs to be selected. Select and try again.","至少需要一个网站或店铺被选中。请选择后再重试。",module,Magento_AdminGws
 "More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","网站ID ""%1"" 不正确。请确认后再重试。",module,Magento_AdminGws
 "The ""%1"" store ID is incorrect. Verify the store ID and try again.","""%1"" 商店(store) ID 不正确。请验证商店 ID 并重试。",module,Magento_AdminGws
 "More permissions are needed to save this setting.","保存此设置需要更多权限。",module,Magento_AdminGws
 "Read Details","查看详情",module,Magento_AdminNotification
@@ -225,9 +225,9 @@
 "An error occurred. For details, see the error log.","发生错误。有关详细信息, 请参阅错误日志。",module,Magento_AdvancedCheckout
 "Orders can only be completed in an active store. Verify the store and try again.","订单只能在被激活的商店(Store)中完成，请确认商店激活状态后再尝试。",module,Magento_AdvancedCheckout
 "The ordered item needs to be loaded. Load the item and try again.","商品列表已更新，请重新加载。",module,Magento_AdvancedCheckout
-"The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
-"The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
-"The wish list item ID needs to be received. Set the ID and try again.","The wish list item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
+"The quote item ID needs to be received. Set the ID and try again.","需要设置引用项的ID。请设置后重试。",module,Magento_AdvancedCheckout
+"The quote item needs to be loaded. Load the item and try again.","需要加载引用项。请加载后重试。",module,Magento_AdvancedCheckout
+"The wish list item ID needs to be received. Set the ID and try again.","需要设置愿望清单ID。请设置后重试。",module,Magento_AdvancedCheckout
 "The wish list item needs to be loaded. Load the item and try again.","需要加载收藏夹列表项。请加载该项目, 然后重试。",module,Magento_AdvancedCheckout
 "The file is corrupt and can't be used.","该文件已损坏, 无法使用。",module,Magento_AdvancedCheckout
 "Please correct the data sent.","请更正发送的数据。",module,Magento_AdvancedPricingImportExport
@@ -329,25 +329,25 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Pharma and Medical Devices","药品和医疗器械",module,Magento_Analytics
 "Technology B2B","技术 B2B",module,Magento_Analytics
 "Other","其他​​​",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","时间格式错误，请输入正确的格式后重试。",module,Magento_Analytics
+"Please select an industry.","请选择行业。",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","无效数据。请输入字符串数据。",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","无效数据。请输入字符串数据。",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","无效数据。请使用一个有效的加密方式。",module,Magento_Analytics
+"Enter the encryption key and try again.","请输入密钥再重试。",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","""%1"" 不存在。",module,Magento_Analytics
+"Retry Synchronization","请再次同步。",module,Magento_Analytics
 "Back","返回",module,Magento_AsynchronousOperations
 "Done","完成",module,Magento_AsynchronousOperations
 "Retry","重试",module,Magento_AsynchronousOperations
 "'Action Details - #' .","' 操作详情-#'。",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 项目已定于更新。""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","批量操作日志",module,Magento_AsynchronousOperations
-"Bulk uuid %bulkUuid not exist","Bulk uuid %bulkUuid not exist",module,Magento_AsynchronousOperations
-"Topic %1","Topic %1",module,Magento_AsynchronousOperations
+"Bulk uuid %bulkUuid not exist","批量操作 uuid %bulkUuid 不存在。",module,Magento_AsynchronousOperations
+"Topic %1","主题 %1",module,Magento_AsynchronousOperations
 "Something went wrong while processing the request.","在处理请求时出现了问题。",module,Magento_AsynchronousOperations
-"Error processing %key element of input data","Error processing %key element of input data",module,Magento_AsynchronousOperations
-"Sorry, something went wrong during product prices update. Please see log for details.","Sorry, something went wrong during product prices update. Please see log for details.",module,Magento_AsynchronousOperations
+"Error processing %key element of input data","在处理输入的数据 %key 时出错。",module,Magento_AsynchronousOperations
+"Sorry, something went wrong during product prices update. Please see log for details.","对不起，在更新价格时出错。详情请查看日志。",module,Magento_AsynchronousOperations
 "%1 item(s) are currently being updated.","目前正在更新的项目 （%1）。",module,Magento_AsynchronousOperations
 "Task ""%1"": ","""%1""的任务︰ ",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 项目已定于更新。",module,Magento_AsynchronousOperations
@@ -454,14 +454,14 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Cannot place order.","不能下订单。",module,Magento_Authorizenet
 "'Gateway error: ' .","'Gateway error: ' .",module,Magento_Authorizenet
 "Unable to place order. Please try again later.","无法下订单。请稍后再试。",module,Magento_Authorizenet
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Authorizenet
-"The transaction details are unavailable. Please try again later.","The transaction details are unavailable. Please try again later.",module,Magento_Authorizenet
-"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (Deprecated)",module,Magento_Authorizenet
-"Signature Key","Signature Key",module,Magento_Authorizenet
-"There was an error while trying to process the request.","There was an error while trying to process the request.",module,Magento_AuthorizenetAcceptjs
-"This transaction cannot be refunded with its current status.","This transaction cannot be refunded with its current status.",module,Magento_AuthorizenetAcceptjs
+"A server error stopped your order from being placed. Please try to place your order again.","一个服务器错误阻止了您的订单放置，请重试。",module,Magento_Authorizenet
+"The transaction details are unavailable. Please try again later.","交易明细不可用。请稍后重试。",module,Magento_Authorizenet
+"Authorize.Net Direct Post (Deprecated)","Authorize.Net Direct Post (已过时)",module,Magento_Authorizenet
+"Signature Key","签名密钥",module,Magento_Authorizenet
+"There was an error while trying to process the request.","处理请求时出错。",module,Magento_AuthorizenetAcceptjs
+"This transaction cannot be refunded with its current status.","当前交易状态不允许退款。",module,Magento_AuthorizenetAcceptjs
 "Something went wrong in the payment gateway.","支付网关出错。",module,Magento_AuthorizenetAcceptjs
-"The authenticity of the gateway response could not be verified.","The authenticity of the gateway response could not be verified.",module,Magento_AuthorizenetAcceptjs
+"The authenticity of the gateway response could not be verified.","认证网关验证失败。",module,Magento_AuthorizenetAcceptjs
 "Authorize Only","仅供授权",module,Magento_AuthorizenetAcceptjs
 "Authorize and Capture","授权和获取",module,Magento_AuthorizenetAcceptjs
 "Credit Card Type","卡片验证号码",module,Magento_AuthorizenetAcceptjs
@@ -476,22 +476,22 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Payment Action","支付行为",module,Magento_AuthorizenetAcceptjs
 "API Login ID","API 登录 Id",module,Magento_AuthorizenetAcceptjs
 "Transaction Key","交易密钥",module,Magento_AuthorizenetAcceptjs
-"Public Client Key","Public Client Key",module,Magento_AuthorizenetAcceptjs
-"Signature Key","Signature Key",module,Magento_AuthorizenetAcceptjs
+"Public Client Key","公钥",module,Magento_AuthorizenetAcceptjs
+"Signature Key","签名明耀",module,Magento_AuthorizenetAcceptjs
 "Merchant MD5 (deprecated)","Merchant MD5 (deprecated)",module,Magento_AuthorizenetAcceptjs
-"Advanced Authorize.Net Settings","Advanced Authorize.Net Settings",module,Magento_AuthorizenetAcceptjs
+"Advanced Authorize.Net Settings","Authorize.Net 高级设置",module,Magento_AuthorizenetAcceptjs
 "Accepted Currency","接受货币",module,Magento_AuthorizenetAcceptjs
 "Debug","调试",module,Magento_AuthorizenetAcceptjs
 "Email Customer","电子邮件客户",module,Magento_AuthorizenetAcceptjs
-"Enable Credit Card Verification Field","Enable Credit Card Verification Field",module,Magento_AuthorizenetAcceptjs
+"Enable Credit Card Verification Field","启用信用卡验证",module,Magento_AuthorizenetAcceptjs
 "Credit Card Types","信用卡类型",module,Magento_AuthorizenetAcceptjs
 "Payment from Applicable Countries","来自特定国家的付款",module,Magento_AuthorizenetAcceptjs
 "Payment from Specific Countries","具体国家的付款",module,Magento_AuthorizenetAcceptjs
 "Minimum Order Total","最高订单金额",module,Magento_AuthorizenetAcceptjs
 "Maximum Order Total","最大订单金额",module,Magento_AuthorizenetAcceptjs
 "Sort Order","排序",module,Magento_AuthorizenetAcceptjs
-"Invalid request to gateway.","Invalid request to gateway.",module,Magento_AuthorizenetAcceptjs
-"Invalid gateway credentials.","Invalid gateway credentials.",module,Magento_AuthorizenetAcceptjs
+"Invalid request to gateway.","无效的网关请求。",module,Magento_AuthorizenetAcceptjs
+"Invalid gateway credentials.","无效的网关认证信息。",module,Magento_AuthorizenetAcceptjs
 "Transaction has been declined. Please try again later.","交易记录已被拒绝。请稍后再试。",module,Magento_AuthorizenetAcceptjs
 "Close","关闭",module,Magento_B2b
 "options","选项",module,Magento_B2b
@@ -1001,19 +1001,19 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Search String","搜索字符串",module,Magento_Backend
 "Page not found.","找不到网页。",module,Magento_Backend
 "Add Block Class Type to Hints","Add Block Class Type to Hints",module,Magento_Backend
-"When the adapter was changed, please flush Catalog Images Cache.","When the adapter was changed, please flush Catalog Images Cache.",module,Magento_Backend
+"When the adapter was changed, please flush Catalog Images Cache.","适配器改变后，请刷新缓存图片。",module,Magento_Backend
 "For Windows server only.","仅供Windows服务器。",module,Magento_Backend
-"Images Upload Configuration","Images Upload Configuration",module,Magento_Backend
+"Images Upload Configuration","图片上传设置",module,Magento_Backend
 "Maximum Width","Maximum Width",module,Magento_Backend
-"Maximum allowed width for uploaded image.","Maximum allowed width for uploaded image.",module,Magento_Backend
-"Maximum Height","Maximum Height",module,Magento_Backend
-"Maximum allowed height for uploaded image.","Maximum allowed height for uploaded image.",module,Magento_Backend
-"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).",module,Magento_Backend
-"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","I.e. redirect from http://example.com/store/ to http://www.example.com/store/",module,Magento_Backend
+"Maximum allowed width for uploaded image.","上传图片允许的最大宽度。",module,Magento_Backend
+"Maximum Height","最大高度",module,Magento_Backend
+"Maximum allowed height for uploaded image.","上传图片允许的最大高度。",module,Magento_Backend
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.).","<strong style=""color:red"">警告!</strong> 当在URL中使用店铺Code时, 如果URL在第三方服务中没有被指定店铺Code，可能会不生效（例如 PayPal）。",module,Magento_Backend
+"I.e. redirect from http://example.com/store/ to http://www.example.com/store/","例如从 http://example.com/store/ 跳转至 http://www.example.com/store/",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. http://example.com/magento/","任何字段允许完全限定的 Url，以结束 '/' （斜线） 如 http://example.com/magento/",module,Magento_Backend
-"May start with {{unsecure_base_url}} placeholder.","May start with {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{unsecure_base_url}} placeholder.","应以 {{unsecure_base_url}} 占位符开始。",module,Magento_Backend
 "Any of the fields allow fully qualified URLs that end with '/' (slash) e.g. https://example.com/magento/","任何字段允许完全限定的 Url，以结束 '/' （斜线） 如 https://example.com/magento/",module,Magento_Backend
-"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.",module,Magento_Backend
+"May start with {{secure_base_url}} or {{unsecure_base_url}} placeholder.","应以 {{secure_base_url}} 或 {{unsecure_base_url}} 占位符开始。",module,Magento_Backend
 "Enter https protocol to use Secure URLs on Storefront.","Enter https protocol to use Secure URLs on Storefront.",module,Magento_Backend
 "Enter https protocol to use Secure URLs in Admin.","Enter https protocol to use Secure URLs in Admin.",module,Magento_Backend
 "See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","See <a href=""https://www.owasp.org/index.php/HTTP_Strict_Transport_Security"" target=""_blank"">HTTP Strict Transport Security</a> page for details.",module,Magento_Backend
